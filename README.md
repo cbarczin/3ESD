@@ -1,0 +1,2 @@
+<h1 align="left">3ESD - Estrutura de Dados</h1>
+<p align="left">Este repositório contém o estudo e a implementação de diversos conceitos e estruturas de dados fundamentais abordados no curso de Análise e Desenvolvimento de Sistemas, utilizando a linguagem C. O foco está em tipos abstratos de dados, estruturas de dados lineares, árvores, pesquisa digital e análise de complexidade de algoritmos. A compreensão dessas estruturas é essencial para o desenvolvimento de algoritmos eficientes e para a otimização de processos computacionais.</p>
