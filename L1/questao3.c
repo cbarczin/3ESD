@@ -11,7 +11,7 @@ void horario(int minutos, int *qntdHoras, int *minRestantes);
 int divisaoInteira(int divisor, int dividendo, int *quociente, int *resto);
 
 int main(void) {
-    int minutos, qntdHoras, minRestantes, result;
+    int minutos, qntdHoras, minRestantes;
 
     printf("Informe o tempo em minutos: ");
     scanf("%d", &minutos);
